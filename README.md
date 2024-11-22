@@ -2,9 +2,6 @@
 
 this is about crypto setting
 
-
-
-Oct
-
+docker run -it --rm ubuntu:latest bash
 
 
